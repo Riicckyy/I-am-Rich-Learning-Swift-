@@ -1,6 +1,6 @@
 # I am Rich
 
-![Captura de Tela 2022-11-02 às 15 36 30](https://user-images.githubusercontent.com/107418244/199574253-a79eb8d4-ca0c-418f-a02a-30993c002a02.png)
+<img src="https://user-images.githubusercontent.com/107418244/199574253-a79eb8d4-ca0c-418f-a02a-30993c002a02.png" width=20% height=20%>
 
 ## What you will learn
 
